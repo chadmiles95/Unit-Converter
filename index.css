@@ -1,0 +1,148 @@
+body {
+    margin: 0;
+    background:#6943FF;
+    display:flex;
+    flex-direction:column;
+    font-family: 'Inter';
+    }
+#header
+    {
+    text-align:center;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 28px;
+    background: #6943FF;
+    margin-bottom: 0px;
+    }
+#headerSection
+    {
+    background:#6943FF;
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    }
+#input-el
+    {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 58px;
+    border: 2px solid #B295FF;
+    background:#6943FF;
+    color: white;
+    text-align: center;
+    margin-bottom: 0px;
+    width: 140px
+    }
+#convertBtn
+    {
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: black;
+    background: white;
+    border-radius: 5px;
+    padding: 8px 20px;
+    margin-bottom: 15px;
+    margin-left: 30px;
+    }
+#dataSection
+    {
+    background: #F4F4F4;
+    padding: 50px;
+    }
+#length
+    {
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+    background: white;
+    margin: 0px 50px;
+    padding: 30px 5px;
+    }
+#lengthHeader
+    {
+    color:#5A537B;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    }
+#lengthData
+    {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    }
+#volumeHeader
+    {
+    color:#5A537B;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    }
+#volume
+    {
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+    background: white;
+    margin: 0px 50px;
+    padding: 30px 5px;
+    margin-top: 20px;
+    
+    }
+#volumeData
+    {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    }
+#massHeader
+    {
+    color:#5A537B;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    }
+#mass
+    {
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+    background: white;
+    margin: 0px 50px;
+    padding: 30px 5px;
+    margin-top: 20px;
+    }
+
+#massData
+    {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    }
